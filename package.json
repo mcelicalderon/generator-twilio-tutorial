@@ -9,6 +9,10 @@
   "keywords": [
     "yeoman-generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcelicalderon/generator-twilio-tutorial.git"
+  },
   "author": "TwilioDevEd",
   "license": "MIT",
   "dependencies": {
