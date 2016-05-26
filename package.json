@@ -1,0 +1,17 @@
+{
+  "name": "generator-twilio-tutorial",
+  "version": "1.0.0",
+  "description": "Generate TwilioDevEd tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "TwilioDevEd",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.23.3"
+  }
+}
